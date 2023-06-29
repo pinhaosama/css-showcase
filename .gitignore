@@ -1,0 +1,14 @@
+# misc files
+.DS_Store
+.env
+*.log
+.cache/
+
+# common prod directories
+/build
+/directories
+
+# common test directiories
+/test
+/testing
+/coverage
